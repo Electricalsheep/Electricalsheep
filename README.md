@@ -1,4 +1,4 @@
-## Hi
+## FEEL FREE TO INTERACT!! I usually don't interact first with people, but feel free to come up to me!
 
 <!--
 **Electricalsheep/Electricalsheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
