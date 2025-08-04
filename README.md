@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](https://camo.githubusercontent.com/13186c27a9bf447beb1d6afc1b8ccfa641bfce2203cbac30a59636c4ed995222/68747470733a2f2f66696c65732e636174626f782e6d6f652f6667363869652e77656270)
 ![](https://files.catbox.moe/xxfwfg.png)
 
 cred: https://www.etsy.com/fi-en/listing/4308074212/preorders-forsaken-azuretime-35?show_sold_out_detail=1&ref=nla_listing_details
