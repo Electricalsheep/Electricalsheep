@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!(http://url/to/https://files.catbox.moe/xxfwfg.png)
+![](https://files.catbox.moe/xxfwfg.png)
